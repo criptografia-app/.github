@@ -1,1 +1,1 @@
-![criptografia.io crypto services](https://github.com/cryptografia-io/.github/blob/main/qrcode-logo-png-transp.png?raw=true)
+![criptografia.io crypto services](https://raw.githubusercontent.com/criptografia-io/.github/main/qrcode-logo-png-transp.png?raw=true)
